@@ -2,3 +2,4 @@ docker.io/xiaoyaliu/glue
 docker.io/amilys/embyserver
 docker.io/linuxserver/resilio-sync
 docker.io/xiaoyaliu/alist
+docker.io/ailg/alist
