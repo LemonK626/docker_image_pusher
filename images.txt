@@ -1,5 +1,5 @@
 docker.io/xiaoyaliu/glue
-docker.io/amilys/embyserver
+docker.io/amilys/embyserver:4.8.0.56
 docker.io/linuxserver/resilio-sync
 docker.io/xiaoyaliu/alist
 docker.io/ailg/ggbond
